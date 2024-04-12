@@ -48,7 +48,6 @@ Kaynak: https://www.bbc.com/turkce/articles/c3glj00gze1o
   
 Türkiye’de olduğu kadar İngiltere’de de çayın sosyal hayatta önemli bir yeri var ve iki ülke de, kişi başı çay tüketiminde ilk üçte yer alıyor. Ancak ABD’li bir bilim insanı oldukça tartışmalı bir malzemeyle, mükemmel çayın gizemini çözdüğü iddiasını ortaya attı. Profesör Michelle Francl, en iyi çayın “tuzla” demlendiği savını ortaya atması sonrası diplomasi de devreye girmek zorunda kaldı. İngiltere’den yükselen tepkiye karşı Londra’daki ABD Büyükelçiliği açıklama yaptı. Pennsylvania’daki Bryn Mawr Üniversitesi’nden Prof. Francl, amacının diplomatik kriz yaratmak olmadığını söyleyerek kendini savunuyor. Haberin yayılması sonrası elektronik posta yağmuruna tutulduğunu söyleyen Francl, 'Bu kadar çok insanın çaylarındaki tuzu konuşacaklarını düşünmemiştim' diyor.  
 **Bu parçanın konusu aşağıdakilerden hangisidir?**  
-  
 A) Çayın sağlık faydaları ve çeşitleri  
 B) İngiltere'de çay kültürünün tarihi ve sosyal önemi  
 C) Bilim insanlarının farklı çay demleme yöntemleri üzerine yaptığı araştırmalar  
@@ -377,7 +376,8 @@ Kaynak: https://www3.tcmb.gov.tr/tlkampanya/images/paralar/10l.html
   
 **14. Soru(akışı bozan yerine)**  
   
-200 TL’nin arka yüzünde Yunus Emre’nin bir portresi yer almaktadır. Kaynaklarda; 1238 – 1320 yılları arasında yaşadığı belirtilen Yunus Emre, Anadolu’da Türkçe şiirin öncüsü olan mutasavvıf bir Türk halk şairidir. Arka yüz tasarımında ayrıca “Yunus Emre’nin anıt mezarı, dizelerinde yer verdiği gül motifi, barışı ve kardeşliği simgeleyen güvercin motifi ile felsefesini en iyi vurgulayan ‘Sevelim, Sevilelim’ dizesine” yer verilmiştir.**Bu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?**  
+200 TL’nin arka yüzünde Yunus Emre’nin bir portresi yer almaktadır. Kaynaklarda; 1238 – 1320 yılları arasında yaşadığı belirtilen Yunus Emre, Anadolu’da Türkçe şiirin öncüsü olan mutasavvıf bir Türk halk şairidir. Arka yüz tasarımında ayrıca “Yunus Emre’nin anıt mezarı, dizelerinde yer verdiği gül motifi, barışı ve kardeşliği simgeleyen güvercin motifi ile felsefesini en iyi vurgulayan ‘Sevelim, Sevilelim’ dizesine” yer verilmiştir.  
+**Bu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?**  
 A) Öyküleme   
 B) Örnekleme   
 C) Tartışma  
