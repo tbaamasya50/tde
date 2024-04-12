@@ -1,50 +1,50 @@
-# 11. Sınıf Türk Dili ve Edebiyatı Performans Ödevi
-
-> 1-5. Sorular Paragrafta Konu - Ana Düşünce
-> 6-10. Sorular Paragrafta Yardımcı Düşünce
-> 11-20. Sorular Paragrafta Yapı(Akışı bozan cümle, Paragrafı ikiye ayırma)
-> 21-30. Sorular Serbest yazılmıştır.
-
-**1. Soru**
-
-Sora, metin komutlarını anlayarak 60 saniye uzunlukta, bir hayli gerçekçi ve yaratıcı video görüntüleri üretebiliyor. Sora’nın ürettiği video görüntülerinde birden fazla karakter yer alabiliyor. Ayrıca ürettiği görüntülerde istenen sahne veya konu ile ilgili doğru ayrıntılar kullanıyor. OpenAI şirketi açıklamasında, Sora’nın dil kavrayışının çok derin olduğunu, böylece canlı duyguları ifade edebilen ilgi çekici karakterler üretebileceğini belirtiyor. Sora, metin komutları ile video üretmenin yanı sıra mevcut bir görüntüyü alarak geliştirebiliyor veya eksik kareleri doldurarak yeni bir video oluşturabiliyor. Şirket açıklamasında ayrıca Sora’nın gerçek dünyayı daha iyi anlayabilen ve onu taklit edebilecek modeller için bir temel işlevi göreceğini de vurguladı.
-**Bu parçanın konusu aşağıdakilerden hangisidir?**
-A) Bir yapay zeka uygulamasının metin komutlarıyla video görüntüleri oluşturabilme yeteneği
-B) Metin komutlarıyla çalışan bir yapay zeka uygulamasının video oluşturma yeteneği ile alışılagelen video düzenleme yöntemleri arasındaki farklar
-C) OpenAI tarafından geliştirilen Sora adlı yapay zeka uygulamasının özellikleri
-D) Yapay zeka uygulamalarının gerçek dünyayı anlama ve taklit etme kabiliyetleri
-E) Metin komutlarının yapay zeka uygulamaları tarafından nasıl algılandığı ve işlendiği
-
-**2. Soru**
-
-Yazarlarının şimdiye kadar cinsiyet ayrımcılığı üzerine yapılan en geniş kapsamlı araştırma olarak adlandırdıkları çalışmaya göre, kadın programcılar tarafından üretilen yazılımlar erkek programcıların yazılımlarından daha fazla beğeniliyor. Fakat yazılımlar paylaşılırken programcının cinsiyeti kadın ise kabul oranları ciddi şekilde azalıyor. Araştırma açık kaynak programların paylaşıldığı Github isimli yazılım depolama ve paylaşma servisi üzerinde yapıldı. Bu servisi kullanan yaklaşık 10 milyon kullanıcı varken bu kullanıcıların sadece 1,4 milyonu cinsiyet bilgisini profilinde paylaşıyor. Bu serviste kullanıcılar devam eden bir proje için yazılım ekleme önerisinde bulunabiliyor. Kaliforniya Politeknik Üniversitesi ve Kuzey Karolayna Üniversitesi’nden araştırmacılar ilk önce kadınlar tarafından yapılan önerilerin kabul oranının (%78,6) erkekler tarafından yapılan önerilerin kabul oranından (74,6) daha fazla olduğunu belirledi. Bu sonuca şaşıran araştırmacılar daha sonra proje sahibinin ve öneri sahibinin birbirini tanımadığı durumu inceledi. Elde edilen sonuçlara göre, cinsiyeti bilinmeyen ve proje sahibi tarafından tanınmayan kullanıcıların önerilerinin kabul oranı %71,8’e düşerken, kullanıcının kadın olduğu bilindiği durumda bu oran %62,5’e kadar düşüyor.
-**Bu parçanın konusu aşağıdakilerden hangisidir?**
-A) Yazılım geliştirme süreçlerinde cinsiyet ayrımcılığı ve etkileri
-B) Kadın programcıların erkek programcılardan daha başarılı olduğu alanlar
-C) Github'un kullanıcı profilleri üzerindeki cinsiyet bilgisi paylaşımı ve sonuçları
-D) Kaliforniya Politeknik Üniversitesi'nin yazılım kabul oranları üzerine yaptığı araştırma
-E) Açık kaynak yazılımların topluluk tabanlı geliştirme süreçlerinde cinsiyet faktörünün rolü
-
-**3. Soru**
-
-Arkeolojik bulgular, Güney Amerika'da eski toplulukların, evcilleştirilmemiş tilkileri özel bir bağla gömdüğünü gösteriyor. Özellikle Arjantin'deki Patagonya'da insan mezarlarında tilki bulunması bilim insanlarını şaşırttı. DNA analizleri, tilkilerin atalarımızla birlikte yaşadığını ve hatta onlarla birlikte yemek yediğini gösteriyor. Bu keşif, köpeklerden önce insanların başka bir sadık dostu olan nesli tükenmiş bir tilki türünün varlığını ortaya koyuyor. Dusicyon avus adlı bu tür, evcil köpeklerin Patagonya'ya gelmesinden birkaç yüzyıl sonra yok olmuştur.
-**Bu parçanın konusu aşağıdakilerden hangisidir?**
-A) İnsanlar ve evcilleştirilmemiş tilkiler arasındaki ilişki
-B) Güney Amerika'daki antik toplumların tarım yöntemleri
-C) Patagonya'da yapılan arkeolojik kazılar
-D) İnsanların evcilleştirdiği hayvan türleri
-E) DNA analizinin tarih öncesi yaşamı anlamamıza etkisi
-
-**4. Soru**
-
-Türkiye’de olduğu kadar İngiltere’de de çayın sosyal hayatta önemli bir yeri var ve iki ülke de, kişi başı çay tüketiminde ilk üçte yer alıyor. Ancak ABD’li bir bilim insanı oldukça tartışmalı bir malzemeyle, mükemmel çayın gizemini çözdüğü iddiasını ortaya attı. Profesör Michelle Francl, en iyi çayın “tuzla” demlendiği savını ortaya atması sonrası diplomasi de devreye girmek zorunda kaldı. İngiltere’den yükselen tepkiye karşı Londra’daki ABD Büyükelçiliği açıklama yaptı. Pennsylvania’daki Bryn Mawr Üniversitesi’nden Prof. Francl, amacının diplomatik kriz yaratmak olmadığını söyleyerek kendini savunuyor. Haberin yayılması sonrası elektronik posta yağmuruna tutulduğunu söyleyen Francl, 'Bu kadar çok insanın çaylarındaki tuzu konuşacaklarını düşünmemiştim' diyor.
-**Bu parçanın konusu aşağıdakilerden hangisidir?**
-
-A) Çayın sağlık faydaları ve çeşitleri
-B) İngiltere'de çay kültürünün tarihi ve sosyal önemi
-C) Bilim insanlarının farklı çay demleme yöntemleri üzerine yaptığı araştırmalar
-D) Çayın dünya genelindeki tüketim alışkanlıkları ve pazarı
-E) Çayın tuzla demlenmesi tartışması ve İngiltere-ABD arasında diplomatik gerilim
+# 11. Sınıf Türk Dili ve Edebiyatı Performans Ödevi  
+  
+> 1-5. Sorular Paragrafta Konu - Ana Düşünce  
+> 6-10. Sorular Paragrafta Yardımcı Düşünce  
+> 11-20. Sorular Paragrafta Yapı(Akışı bozan cümle, Paragrafı ikiye ayırma)  
+> 21-30. Sorular Serbest yazılmıştır.  
+  
+**1. Soru**  
+  
+Sora, metin komutlarını anlayarak 60 saniye uzunlukta, bir hayli gerçekçi ve yaratıcı video görüntüleri üretebiliyor. Sora’nın ürettiği video görüntülerinde birden fazla karakter yer alabiliyor. Ayrıca ürettiği görüntülerde istenen sahne veya konu ile ilgili doğru ayrıntılar kullanıyor. OpenAI şirketi açıklamasında, Sora’nın dil kavrayışının çok derin olduğunu, böylece canlı duyguları ifade edebilen ilgi çekici karakterler üretebileceğini belirtiyor. Sora, metin komutları ile video üretmenin yanı sıra mevcut bir görüntüyü alarak geliştirebiliyor veya eksik kareleri doldurarak yeni bir video oluşturabiliyor. Şirket açıklamasında ayrıca Sora’nın gerçek dünyayı daha iyi anlayabilen ve onu taklit edebilecek modeller için bir temel işlevi göreceğini de vurguladı.  
+**Bu parçanın konusu aşağıdakilerden hangisidir?**  
+A) Bir yapay zeka uygulamasının metin komutlarıyla video görüntüleri oluşturabilme yeteneği  
+B) Metin komutlarıyla çalışan bir yapay zeka uygulamasının video oluşturma yeteneği ile alışılagelen video düzenleme yöntemleri arasındaki farklar  
+C) OpenAI tarafından geliştirilen Sora adlı yapay zeka uygulamasının özellikleri  
+D) Yapay zeka uygulamalarının gerçek dünyayı anlama ve taklit etme kabiliyetleri  
+E) Metin komutlarının yapay zeka uygulamaları tarafından nasıl algılandığı ve işlendiği  
+  
+**2. Soru**  
+  
+Yazarlarının şimdiye kadar cinsiyet ayrımcılığı üzerine yapılan en geniş kapsamlı araştırma olarak adlandırdıkları çalışmaya göre, kadın programcılar tarafından üretilen yazılımlar erkek programcıların yazılımlarından daha fazla beğeniliyor. Fakat yazılımlar paylaşılırken programcının cinsiyeti kadın ise kabul oranları ciddi şekilde azalıyor. Araştırma açık kaynak programların paylaşıldığı Github isimli yazılım depolama ve paylaşma servisi üzerinde yapıldı. Bu servisi kullanan yaklaşık 10 milyon kullanıcı varken bu kullanıcıların sadece 1,4 milyonu cinsiyet bilgisini profilinde paylaşıyor. Bu serviste kullanıcılar devam eden bir proje için yazılım ekleme önerisinde bulunabiliyor. Kaliforniya Politeknik Üniversitesi ve Kuzey Karolayna Üniversitesi’nden araştırmacılar ilk önce kadınlar tarafından yapılan önerilerin kabul oranının (%78,6) erkekler tarafından yapılan önerilerin kabul oranından (74,6) daha fazla olduğunu belirledi. Bu sonuca şaşıran araştırmacılar daha sonra proje sahibinin ve öneri sahibinin birbirini tanımadığı durumu inceledi. Elde edilen sonuçlara göre, cinsiyeti bilinmeyen ve proje sahibi tarafından tanınmayan kullanıcıların önerilerinin kabul oranı %71,8’e düşerken, kullanıcının kadın olduğu bilindiği durumda bu oran %62,5’e kadar düşüyor.  
+**Bu parçanın konusu aşağıdakilerden hangisidir?**  
+A) Yazılım geliştirme süreçlerinde cinsiyet ayrımcılığı ve etkileri  
+B) Kadın programcıların erkek programcılardan daha başarılı olduğu alanlar  
+C) Github'un kullanıcı profilleri üzerindeki cinsiyet bilgisi paylaşımı ve sonuçları  
+D) Kaliforniya Politeknik Üniversitesi'nin yazılım kabul oranları üzerine yaptığı araştırma  
+E) Açık kaynak yazılımların topluluk tabanlı geliştirme süreçlerinde cinsiyet faktörünün rolü  
+  
+**3. Soru**  
+  
+Arkeolojik bulgular, Güney Amerika'da eski toplulukların, evcilleştirilmemiş tilkileri özel bir bağla gömdüğünü gösteriyor. Özellikle Arjantin'deki Patagonya'da insan mezarlarında tilki bulunması bilim insanlarını şaşırttı. DNA analizleri, tilkilerin atalarımızla birlikte yaşadığını ve hatta onlarla birlikte yemek yediğini gösteriyor. Bu keşif, köpeklerden önce insanların başka bir sadık dostu olan nesli tükenmiş bir tilki türünün varlığını ortaya koyuyor. Dusicyon avus adlı bu tür, evcil köpeklerin Patagonya'ya gelmesinden birkaç yüzyıl sonra yok olmuştur.  
+**Bu parçanın konusu aşağıdakilerden hangisidir?**  
+A) İnsanlar ve evcilleştirilmemiş tilkiler arasındaki ilişki  
+B) Güney Amerika'daki antik toplumların tarım yöntemleri  
+C) Patagonya'da yapılan arkeolojik kazılar  
+D) İnsanların evcilleştirdiği hayvan türleri  
+E) DNA analizinin tarih öncesi yaşamı anlamamıza etkisi  
+  
+**4. Soru**  
+  
+Türkiye’de olduğu kadar İngiltere’de de çayın sosyal hayatta önemli bir yeri var ve iki ülke de, kişi başı çay tüketiminde ilk üçte yer alıyor. Ancak ABD’li bir bilim insanı oldukça tartışmalı bir malzemeyle, mükemmel çayın gizemini çözdüğü iddiasını ortaya attı. Profesör Michelle Francl, en iyi çayın “tuzla” demlendiği savını ortaya atması sonrası diplomasi de devreye girmek zorunda kaldı. İngiltere’den yükselen tepkiye karşı Londra’daki ABD Büyükelçiliği açıklama yaptı. Pennsylvania’daki Bryn Mawr Üniversitesi’nden Prof. Francl, amacının diplomatik kriz yaratmak olmadığını söyleyerek kendini savunuyor. Haberin yayılması sonrası elektronik posta yağmuruna tutulduğunu söyleyen Francl, 'Bu kadar çok insanın çaylarındaki tuzu konuşacaklarını düşünmemiştim' diyor.  
+**Bu parçanın konusu aşağıdakilerden hangisidir?**  
+  
+A) Çayın sağlık faydaları ve çeşitleri  
+B) İngiltere'de çay kültürünün tarihi ve sosyal önemi  
+C) Bilim insanlarının farklı çay demleme yöntemleri üzerine yaptığı araştırmalar  
+D) Çayın dünya genelindeki tüketim alışkanlıkları ve pazarı  
+E) Çayın tuzla demlenmesi tartışması ve İngiltere-ABD arasında diplomatik gerilim  
 
 **5. Soru**
 
@@ -141,12 +141,12 @@ E) VI
 **17. Soru**
 
 Android, Linux, macOS ve iOS'i etkileyen kritik bir Bluetooth açığı keşfedildi. (I) Bu açık saldırganın izinsiz bir şekilde bluetooth bir cihaza bağlanmasına izin veriyor. (II) Bu da anlayabileceğiniz üzere sahte klavye bağlayarak karşı cihaza komut yazmanıza, betik etkinleştirmenize neden oluyor. (III) İşin kötü yanıysa açığın patlatılması için sadece bir bluetooh adaptörüne ve Linux cihazına ihtiyacınız var. (IV) Bundan sonra açığı bluetoothu aktif olan herhangi bir cihazda patlatabiliyorsunuz. (V) Güncellemeler yayınlandı ama Android kullanıcısıysanız güvenlik yamanızın Aralık ayında olması lazım ve biliyoruz ki birçok Android telefon güncelleme almıyor. (VI) Kısaca bluetoothunuzu her yerde her zaman aktif etmeyin.  
-**Bu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle başlar?**
-A) I
-B) III
-C) IV
-D) II
-E) VI
+**Bu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle başlar?**  
+A) I  
+B) III  
+C) IV  
+D) II  
+E) VI  
 
 **18. Soru**
 
