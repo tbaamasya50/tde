@@ -57,7 +57,7 @@ E) Bölgedeki diğer araştırmalar ve keşiflerin özetlenmesi.
     
 **6. Soru**    
     
-Uzun süredir hikayeler üzerinde çalışmalar yapıyorum. Birçok hikayeyi eleştirel gözle ve titizlikle dinledim. Sonunda "Bir hikayenin büyük olduğu nasıl anlaşılır?" Sorusuna cevap buldum. O da hikayeyi dinleyip telefonu bir kenara koyduktan sonra bir kez daha dinleme gereksinimi duymaktır. Dinleyiciyi sarıp sarmalamaktır. Kendini bir solukta dinletecek kadar sürükleyici olup sonra da üzerinde düşündürmektir. Hayat ve olaylar üzerine Sorular sordurmak, irdelemeye yönlendirmektir. Ama bütün bunları samimiyetten ödün vermeden yapmaktır.    
+Uzun süredir hikayeler üzerinde çalışmalar yapıyorum. Birçok hikayeyi eleştirel gözle ve titizlikle dinledim. Sonunda "Bir hikayenin büyük olduğu nasıl anlaşılır?" Sorusuna cevap buldum. O da hikayeyi dinleyip telefonu bir kenara koyduktan sonra bir kez daha dinleme gereksinimi duymaktır. Dinleyiciyi sarıp sarmalamaktır. Kendini bir solukta dinletecek kadar sürükleyici olup sonra da üzerinde düşündürmektir. Hayat ve olaylar üzerine sorular sordurmak, irdelemeye yönlendirmektir. Ama bütün bunları samimiyetten ödün vermeden yapmaktır.    
 **Aşağıdakilerden hangisi bu parçada söz edilen büyük hikayelerin bir özelliği değildir?**    
 A) Etkileyicilik    
 B) İçtenlik    
@@ -103,7 +103,7 @@ A) Oyunun 2. Dünya Savaşı sırasında askerler arasında popüler hale geldi�
 B) Batak oyununun kökeninin kahvehanelere dayandığı.  
 C) Oyunun temelde whist ve bridge gibi oyunlardan türediği.  
 D) Oyunun 1930'larda Cincinnati, Ohio'da bir üniversite yurdunda ortaya çıktığı.  
-E) Oyunun maça olarak bilinmektedir.  
+E) Oyun maça olarak bilinmektedir.  
   
 **11. Soru**  
   
@@ -129,7 +129,7 @@ A) I B) II C) III D) IV E) V
   
 **16. Soru**  
   
-(I) Modern teknolojinin hızlı gelişimiyle birlikte, insanlar artık bilgiye ulaşmak için eskisine göre daha az çaba harcıyorlar. (II) İnternetin yaygınlaşmasıyla, bilgiye erişim artık parmaklarımızın ucunda. (III) Ancak, bu kolay erişim beraberinde bilgiyi hafife alma ve yüzeysel bilgi tüketimini teşvik etme riskini taşır. (IV) Bilgi bombardımanı insanları yüzeyde gezinmeye ve derinlemesine öğrenme pratiğinden uzaklaştırabilir. (V) Bu durum, bilgiye ulaşmanın kolaylığının derinlemesine anlama ve öğrenme becerilerini gölgede bırakabileceğini göstermektedir. (VI) Tüm bunlar, modern toplumların bilgiye erişim ve kullanım şekillerini kökten değiştiriyor.  
+(I) Modern teknolojinin hızlı gelişimiyle birlikte, insanlar artık bilgiye ulaşmak için eskisine göre daha az çaba harcıyorlar. (II) İnternetin yaygınlaşmasıyla, bilgiye erişim artık parmaklarımızın ucunda. (III) Ancak, bu kolay erişim beraberinde bilgiyi hafife alma ve yüzeysel bilgi tüketimini teşvik etme riskini taşır. (IV) Bilgi bombardımanı insanları yüzeyde gezinmeye ve derinlemesine öğrenme pratiğinden uzaklaştırabilir. (V) Bu durum, bilgiye ulaşmanın kolaylığının derinlemesine anlama ve öğrenme becerilerini gölgede bırakabileceğini göstermektedir. (VI) Tüm bunlar modern toplumların bilgiye erişim ve kullanım şekillerini kökten değiştiriyor.  
 **Bu parçayı iki paragrafa ayırmak istesek, ilk paragraf hangi cümleyle sona erer?**  
 A) II  
 B) III  
@@ -142,14 +142,14 @@ E) VI
 Android, Linux, macOS ve iOS'i etkileyen kritik bir Bluetooth açığı keşfedildi. (I) Bu açık saldırganın izinsiz bir şekilde bluetooth bir cihaza bağlanmasına izin veriyor. (II) Bu da anlayabileceğiniz üzere sahte klavye bağlayarak karşı cihaza komut yazmanıza, betik etkinleştirmenize neden oluyor. (III) İşin kötü yanıysa açığın patlatılması için sadece bir bluetooh adaptörüne ve Linux cihazına ihtiyacınız var. (IV) Bundan sonra açığı bluetoothu aktif olan herhangi bir cihazda patlatabiliyorsunuz. (V) Güncellemeler yayınlandı ama Android kullanıcısıysanız güvenlik yamanızın Aralık ayında olması lazım ve biliyoruz ki birçok Android telefon güncelleme almıyor. (VI) Kısaca bluetoothunuzu her yerde her zaman aktif etmeyin.    
 **Bu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle başlar?**    
 A) I    
-B) III    
+B) V    
 C) IV    
 D) II    
 E) VI    
   
 **18. Soru**  
   
-(I) Ebeveynlerin çocuklarını yetiştirirken uyguladıkları yaklaşım, genellikle kendi çocukluk deneyimlerine dayanır. (II) Bazı ebeveynler aşırı katı kurallar koyarken, diğerleri tamamen kuralsız bir ortam sağlamayı tercih ederler. (III) Ancak, her iki durum da olumsuz etkiler yaratabilir. (IV) Örneğin, çocuklar istedikleri her şeye kolayca ulaştıklarında, ileride özel ve iş hayatında Sorunlarla karşılaşabilirler. (V) Teknolojinin hızla geliştiği dijital çağda, sosyal medya ve ekran kullanımının sınırlanması ebeveynlerin önemli bir görevidir. (VI) Bu tutum, Z kuşağı gibi teknolojiyle büyüyen çocuklar için de önemlidir çünkü uzmanlar, sabır ve emek harcamanın önemini vurgularlar.  
+(I) Ebeveynlerin çocuklarını yetiştirirken uyguladıkları yaklaşım genellikle kendi çocukluk deneyimlerine dayanır. (II) Bazı ebeveynler aşırı katı kurallar koyarken diğerleri tamamen kuralsız bir ortam sağlamayı tercih ederler. (III) Ancak her iki durum da olumsuz etkiler yaratabilir. (IV) Örneğin çocuklar istedikleri her şeye kolayca ulaştıklarında, ileride özel ve iş hayatında sorunlarla karşılaşabilirler. (V) Teknolojinin hızla geliştiği dijital çağda, sosyal medya ve ekran kullanımının sınırlanması ebeveynlerin önemli bir görevidir. (VI) Bu tutum Z kuşağı gibi teknolojiyle büyüyen çocuklar için de önemlidir çünkü uzmanlar sabır ve emek harcamanın önemini vurgularlar.  
 **Bu parçayı iki paragrafa ayırmak istesek, ilk paragraf hangi cümleyle sona erer?**  
 A) V  
 B) IV  
@@ -227,12 +227,12 @@ E) Teknolojiyi kullanmamak.
 **26. Soru**  
   
 National Geographic'e göre, dünyanın "en tipik" insanı 28 yaşında, sağ elini kullanan, Çin'in Han soyundan gelen bir erkektir. Finansal olarak yıllık geliri 12.000 dolardan az olan bu tipik insan, teknoloji konusunda bilgili ve hedefleri yüksektir, ancak gelir düzeyi küresel şirketlerin belirlediği 1.000 dolarlık sınırın altında kalmaktadır.  
-**Yukarıdaki parçanın anlatımında aşağıdakilerden hangisi vardır?**  
+**Yukarıdaki parçanın anlatımında düşünceyi geliştirme yollarından hangisi vardır?**  
 A) Tanımlama  
-B) Açıklama  
-C) Tartışma  
-D) Öyküleme  
-E) Betimleme  
+B) Örnekleme  
+C) Benzetme  
+D) Somutlama  
+E) Karşılaştırma  
   
 **27. Soru**  
   
